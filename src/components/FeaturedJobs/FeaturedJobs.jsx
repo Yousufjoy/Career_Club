@@ -14,7 +14,7 @@ const FeaturedJobs = () => {
       });
     });
   }, []);
-  console.log(jobs);
+
   return (
     <div>
       <div className="text-center">
